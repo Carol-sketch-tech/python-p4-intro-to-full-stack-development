@@ -1,0 +1,25 @@
+FULL STACK DEVELOPMENT.
+
+OBJECTIVES 
+    1. use react and flask together to build a beautiful and powerful web application.
+    2. Organize client and server code so that it is easy ti understand and maintain.
+    3. Create websocket connections between clients and server to imporive our applicaitons performance.
+
+full stack development of a frontend and a backened for an applicaion.
+true full stack developwmnt includes a databse, a logic/ server and a frontend built in javascript, HTML and CSS.
+
+backend - the layer if a full stack application that handles business logic and other programmatic tasks that useds 
+so notn or should not see.
+can be written in python java and ruby PHP etc.
+front end is a layer of fulls stack that users see and intract with.
+
+Cross Origin Resource Sharing (CORS)- a methid for a server to indicate any paorts for server that can share its resources.
+
+transmission control protocol - a protocol that defines how computers send data ti each other.
+A connection is formed and stays active until the appllication on either end have finished sending data to one another.
+
+Hypertext Transfer Protocol a stateless protocol where applkcaitons communicate fo he lenght of time it takes for data to be transfered.
+
+Websocket - A protocl that allows clients and servers to communicate with one another in both directio.
+The bidirectional nature of webseocket communication allows a connections state to be generates and the connection maintaineed until it is termincated by one side.
+This allows for speedy and seamless connections between frontend and backends.
